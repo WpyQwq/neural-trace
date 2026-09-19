@@ -1,0 +1,4 @@
+# Install this optional set after the Qwen3.5 checkpoint is fully downloaded.
+torch>=2.6
+transformers>=4.57
+accelerate>=1.3
